@@ -1,8 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) to calculate 2 big numbers addition.
 
 ## Getting Started
 
-First, run the development server:
+First, install all needed package by this command
+
+```bash
+npm install
+```
+
+  Then, run the development server:
 
 ```bash
 npm run dev
